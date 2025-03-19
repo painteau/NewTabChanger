@@ -1,6 +1,6 @@
 {
   "name": "New Tab Changer",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A powerful tool to customize your new tab page with personalized redirects and settings",
   "manifest_version": 3,
   "author": "Painteau",
@@ -15,7 +15,8 @@
     "48": "icons/48.png",
     "128": "icons/128.png",
     "256": "icons/256.png",
-    "512": "icons/512.png"
+    "512": "icons/512.png",
+    "1024": "icons/1024.png"
   },
   "permissions": ["storage"],
   "minimum_chrome_version": "88"
