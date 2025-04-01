@@ -15,6 +15,14 @@ NewTabChanger is a Chrome extension that allows you to customize your new tab pa
 
 ## Installation
 
+### Chrome Web Store
+
+You can install NewTabChanger directly from the Chrome Web Store:
+
+[Install NewTabChanger](https://chromewebstore.google.com/detail/new-tab-changer/fliddbilblbeijgafickmllbbbgejngp)
+
+### Manual Installation (For Development)
+
 1. Download or clone this repository
 2. Open Chrome and go to `chrome://extensions/`
 3. Enable "Developer mode" in the top right corner
